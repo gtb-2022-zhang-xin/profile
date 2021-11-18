@@ -6,4 +6,4 @@ I went on to work for a couple of years in Air China
 Then, I went to HK for postgraduate study and got my master degree last week
 ![image](https://github.com/gtb-2022-zhang-xin/profile/blob/main/assests/cityU.jpeg)
 Hope to be a good developer and we get along well!
-![image]https://github.com/gtb-2022-zhang-xin/profile/blob/main/assests/fighting.jpeg
+![image](https://github.com/gtb-2022-zhang-xin/profile/blob/main/assests/fighting.jpeg)
