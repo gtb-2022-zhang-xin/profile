@@ -1,6 +1,5 @@
-# profile
-Hi, this is Zhang Xin
-You can call me 小z
+# Hi, this is Zhang Xin
+> You can call me 小z
 I went on to work for a couple of years in Air China
 ![image](https://github.com/gtb-2022-zhang-xin/profile/blob/main/assests/CA.jpeg)
 Then, I went to HK for postgraduate study and got my master degree last week
